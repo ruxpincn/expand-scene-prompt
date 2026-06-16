@@ -1,0 +1,4 @@
+interface:
+  display_name: "扩写场景提示词Skill"
+  short_description: "将主题扩写为电影级场景图片提示词"
+  default_prompt: "Use $expand-scene-prompt to turn my theme into a cinematic Chinese scene image prompt."
